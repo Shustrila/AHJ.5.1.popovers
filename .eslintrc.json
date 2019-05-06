@@ -13,5 +13,7 @@
         "sourceType": "module"
     },
     "rules": {
+      "no-new": "off",
+      "no-return-assign": "off"
     }
 }
